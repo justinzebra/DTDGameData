@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DTDGameData/static/css/main.f07a6ce8.css",
+    "main.js": "/DTDGameData/static/js/main.919b6b4a.js",
+    "static/js/453.094d448a.chunk.js": "/DTDGameData/static/js/453.094d448a.chunk.js",
+    "index.html": "/DTDGameData/index.html",
+    "main.f07a6ce8.css.map": "/DTDGameData/static/css/main.f07a6ce8.css.map",
+    "main.919b6b4a.js.map": "/DTDGameData/static/js/main.919b6b4a.js.map",
+    "453.094d448a.chunk.js.map": "/DTDGameData/static/js/453.094d448a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07a6ce8.css",
+    "static/js/main.919b6b4a.js"
+  ]
+}
